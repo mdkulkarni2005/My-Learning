@@ -25,7 +25,10 @@
   //   {
   //     "binding": "MY_DB",
   //     "database_name": "my-database",
-  //     "database_id": ""
+  // "vars": {
+  //   "DATABASE_URL": "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiOWM5ZmRmNGYtYTU3MC00NTkxLTg3NzgtZWZlNDExZTk4YzNiIiwidGVuYW50X2lkIjoiYmJmMjc5MTM0OWZhMjJiMmM1YTliMjI0MTM4YTc0YTg2OTgwMzc0M2Q3OGFkZWRlNTZjOWI4YmM2YzZjOThjNiIsImludGVybmFsX3NlY3JldCI6IjMyZjg4NjhmLTFjMzgtNDExYi05ZTMzLTVmOTE0YzJiOTlhMiJ9.b6fIzk_gEIG2ZRJE9Tpj5U8EFBIAaTRXEl29JKQjCg8"
+  // },
+      // "database_id": ""
   //   }
   // ],
   // "ai": {

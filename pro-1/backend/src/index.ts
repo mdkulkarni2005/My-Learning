@@ -2,6 +2,10 @@ import { Hono } from 'hono'
 
 const app = new Hono()
 
+app.get('/', (c) => {
+  return c.text('Hello world!')
+})
+
 app.post('/api/v1/signup', (c) => {
   return c.text('Hello signup!')
 })
